@@ -1,0 +1,24 @@
+{
+  "site": {
+    "domain": "bbs.uestc.edu.cn",
+    "userAgent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36",
+    "retryTimes": 3,
+    "sleepTime": 10,
+    "cookies":{
+      "v3hW_2132_auth": "c864kaw17SdsINI1yadYlllt7U%2F5cHMhEmi1Z4ygstIJGTCa%2FJ6aQFlMWbVR7a56Kf87ZJrWATiau6RYKY99hb1lDjk",
+      "v3hW_2132_checkfollow": "1",
+      "v3hW_2132_checkpm": "1",
+      "v3hW_2132_lastact": "1488339115%09api.php%09ad",
+      "v3hW_2132_lastcheckfeed": "192700%7C1488339085",
+      "v3hW_2132_lastvisit": "1488335175",
+      "v3hW_2132_lip": "60.255.40.170%2C1488338354",
+      "v3hW_2132_nofavfid": "1",
+      "v3hW_2132_onlineusernum": "172",
+      "v3hW_2132_saltkey": "RlIK50I6",
+      "v3hW_2132_sendmail": "1",
+      "v3hW_2132_sid": "BeSFeF",
+      "v3hW_2132_ulastactivity": "c94e2HKs7gWyrjaaWBbfdrF4cfQzIC6kihLQnQ%2FWNt3dXbFJhBVUq"
+    }
+  },
+  "dataDir":"./crawler/data/"
+}
